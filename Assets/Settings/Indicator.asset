@@ -15,19 +15,19 @@ MonoBehaviour:
   <Settings>k__BackingField:
   - Mult: 1
     Text: Good!
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 50fb405e3e7b07c47a9d94b69e237b96, type: 2}
   - Mult: 2
     Text: Cool!
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 50fb405e3e7b07c47a9d94b69e237b96, type: 2}
   - Mult: 3
     Text: Wow!
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 50fb405e3e7b07c47a9d94b69e237b96, type: 2}
   - Mult: 4
     Text: Impossible!
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 50fb405e3e7b07c47a9d94b69e237b96, type: 2}
   - Mult: 5
     Text: Greate!
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 50fb405e3e7b07c47a9d94b69e237b96, type: 2}
   - Mult: 6
     Text: CARNAGE!!!
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 50fb405e3e7b07c47a9d94b69e237b96, type: 2}
